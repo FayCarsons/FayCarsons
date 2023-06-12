@@ -1,10 +1,7 @@
 # Hi!
 My name is Fay Carsons <br>
-
-## I am
-🌧 A generative artist <br> 
-⌨️ A programmer <br>
-🏰 Located in Richmond, Virginia <br>
+I am a programmer, musician, generative artist, and web developer located in Richmond, Virginia. <br>
+I've been learning to code for around a year and I am currently:
 
 ## Proficient in 
 🌀 Clojure <br>
