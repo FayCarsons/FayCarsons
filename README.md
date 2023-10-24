@@ -27,5 +27,5 @@ I've been learning to code for the last ~2 years and I am currently:
 🎹 Play music, employing both traditional and generative techniques <br>
 🔋 Study embedded systems, DSP, and synthesizer design <br>
 👩🏻‍🎨 Write shaders, focusing on raytracing and glitch aesthetics <br>
-👩🏻‍💻 Contribute to [Hollow](https://github.com/Ella-Hoeppner/hollow) a Clojurescript creative coding library written by [Ella Hoeppner](https://github.com/Ella-Hoeppner) and I
+👩🏻‍💻 Contribute to [Hollow](https://github.com/Ella-Hoeppner/hollow) a Clojurescript creative coding library I co-authored
 
