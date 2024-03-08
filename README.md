@@ -1,27 +1,15 @@
-# Hi!
-My name is Fay Carsons <br>
+# Hi! 👋🏻
+My name is Fay Carsons :) <br>
 I am a programmer, musician, and generative artist in Richmond, Virginia. <br>
-I've been learning to code for the last ~2 years and I am currently:
+I began teaching myself computer science two years ago <br> 
+My github is a record of my progress including some of the first code I wrote, all the way up to current projects in production. <br>
+I am currently looking for work in front-end, backend-end, or full-stack!
 
-## Proficient in 
-🌀 ClojureScript <br>
-🐫 OCaml <br>
-🕸 Typescript <br>
-⚙️ Rust
+# Languages and Frameworks
+[![skills](https://skillicons.dev/icons?i=rust,ocaml,clojure,ts,neovim,actix,bash,css,html,docker,git,netlify,nginx,nodejs,p5js,py,sqlite,solidjs,tailwind,vite&perline=5)](https://skillicons.dev)
 
-## Learning
-🎶 Audio DSP <br>
-📫 Backend development <br>
-🐋 Docker <br>
-💽 SQL
-
-## Interested in
-🌷 Generative design <br>
-🧩 Optimization <br>
-👩🏻‍🔬 Lanuage && compiler design <br>
-📸 Physically-based rendering
-
-## In my spare time I-
-🎹 Play music, employing both traditional and generative techniques <br>
-👩🏻‍🎨 Write shaders, focusing on raytracing and glitch aesthetics <br>
-👩🏻‍💻 Work on [my portfolio site](https://www.faycarsons.xyz) and the Raspberry PI server its hosted on 
+# Currently working on: 
+[Kiggyshop](https://github.com/faycarsons/kiggyshop) a full-stack webshop written in Rust, Elm, a tiny bit of Javascript, and some frameworks like Tailwind and Diesel ORM. <br>
+[Joy](https://github.com/Sudha247/ocaml-joy/) an OCaml creative coding library focused on simplicity, elegance, and composability. <br>
+[Lank](https://github.com/FayCarsons/Lank) a Clojure-inspired Lisp dialect designed and optimized for generative music composition. <br> 
+Various build tools like my [image optimization tool](https://github.com/FayCarsons/Imageopt-rs) and [blog parser](https://github.com/FayCarsons/Blog-Parser). <br>
