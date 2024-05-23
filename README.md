@@ -10,6 +10,5 @@ I am currently looking for work in backend-end, full-stack, or tooling!
 
 # Currently working on: 
 [Ack!](https://github.com/FayCarsons/Ack) an OCaml library for spatial data structures <br>
-[Kiggyshop](https://github.com/faycarsons/kiggyshop) a full-stack webshop written in Rust, Elm, a tiny bit of Javascript, and some frameworks like Tailwind and Diesel ORM. <br>
-[Joy](https://github.com/Sudha247/ocaml-joy/) an OCaml creative coding library focused on simplicity, elegance, and composability. <br>
+[Kiggyshop](https://github.com/faycarsons/kiggyshop) a full-stack webshop written in Rust and Typescript, for my partner's art business <br>
 [Lank](https://github.com/FayCarsons/Lank) a Clojure-inspired Lisp dialect designed and optimized for generative music composition. <br>
