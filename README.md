@@ -6,7 +6,7 @@ My github is a record of my progress including some of the first code I wrote, a
 I am currently looking for work in back-end, full-stack, or tooling!
 
 # Languages and Frameworks
-[![skills](https://skillicons.dev/icons?i=rust,ocaml,clojure,ts,neovim,actix,bash,css,html,docker,git,netlify,nginx,nodejs,p5js,py,sqlite,solidjs,tailwind,vite&perline=5)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=rust,ocaml,haskell,clojure,ts,neovim,actix,bash,css,html,docker,git,nginx,nodejs,p5js,py,sqlite,solidjs,tailwind,vite&perline=5)](https://skillicons.dev)
 
 # Currently working on: 
 [Ack!](https://github.com/FayCarsons/Ack) an OCaml library for spatial data structures <br>
