@@ -1,9 +1,8 @@
 # Hi! 👋🏻
-My name is Fay Carsons :) <br>
-I am a programmer, musician, and generative artist in Richmond, Virginia. <br>
-I began teaching myself computer science two years ago <br> 
-My github is a record of my progress including some of the first code I wrote, all the way up to current projects in production. <br>
-I am currently looking for work in back-end, full-stack, or tooling!
+My name is Fay Carsons :3 <br>
+I'm a programmer, musician, and generative artist in Richmond, Virginia. <br>
+I've been teaching myself computer science for the last two years. <br> 
+My GitHub is a record of my progress, from my first scripts to current projects <br>
 
 # Languages and Frameworks
 [![skills](https://skillicons.dev/icons?i=rust,ocaml,haskell,clojure,ts,neovim,actix,bash,css,html,docker,git,nginx,nodejs,p5js,py,sqlite,solidjs,tailwind,vite&perline=5)](https://skillicons.dev)
