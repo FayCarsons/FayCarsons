@@ -8,6 +8,8 @@ My GitHub is a record of my progress, from my first scripts to current projects 
 [![skills](https://skillicons.dev/icons?i=rust,ocaml,haskell,clojure,ts,neovim,actix,bash,css,html,docker,git,nginx,nodejs,p5js,py,sqlite,solidjs,tailwind,vite&perline=5)](https://skillicons.dev)
 
 # Currently working on: 
-[Ack!](https://github.com/FayCarsons/Ack) an OCaml library for spatial data structures <br>
+[Faust Cables.gl plugin](https://github.com/FayCarsons/Cables-Faust-Plugin) A Faust DSP plugin for the Cables.gl platform, 
+allowing users to write functional DSP code that interacts with their Cables shader patches
+[Koka ecosystem](https://github.com/FayCarsons/Sefirot) Libraries for the Koka language, written to support personal projects and better undertand algebraic effects.
 [Kiggyshop](https://github.com/faycarsons/kiggyshop) a full-stack webshop written in Rust and Typescript, for my partner's art business <br>
-[Lank](https://github.com/FayCarsons/Lank) a Clojure-inspired Lisp dialect designed and optimized for generative music composition. <br>
+
