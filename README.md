@@ -4,12 +4,9 @@ I'm a programmer, musician, and generative artist in Richmond, Virginia. <br>
 I've been teaching myself computer science for the last two years. <br> 
 My GitHub is a record of my progress, from my first scripts to current projects <br>
 
-# Languages and Frameworks
-[![skills](https://skillicons.dev/icons?i=rust,ocaml,haskell,clojure,ts,neovim,actix,bash,css,html,docker,git,nginx,nodejs,p5js,py,sqlite,solidjs,tailwind,vite&perline=5)](https://skillicons.dev)
+# Previous projects:
+[Hollow](github.com/Ella-Hoeppner/hollow) - A Clojurescript library for writing WebGL shaders with a meta-programmable DSL, a featured library of shader utilities, and high-level abstractions over the WebGL API.
 
 # Currently working on: 
-[Faust Cables.gl plugin](https://github.com/FayCarsons/Cables-Faust-Plugin) - A Faust DSP plugin for the Cables.gl platform, 
-allowing users to write functional DSP code that interacts with their Cables shader patches <br><br>
-[Koka ecosystem](https://github.com/FayCarsons/Sefirot) - Libraries for the Koka language, written to support personal projects and better undertand algebraic effects. <br><br>
-[Kiggyshop](https://github.com/faycarsons/kiggyshop) - A full-stack webshop written in Rust and Typescript, for my partner's art business <br>
-
+[The Odoc parser](https://github.com/FayCarsons/odoc) - A full rewrite of the parser that drives Odoc, OCaml's library documentation tooling. 
+[OCaml ecosystem](https://github.com/FayCarsons/OCaml-monome) - Continuing projects to expand the OCaml ecosystem's support for creative coding, focusing on graphics and DSP. 
